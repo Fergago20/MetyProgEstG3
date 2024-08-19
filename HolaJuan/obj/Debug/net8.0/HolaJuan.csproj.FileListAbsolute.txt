@@ -1,0 +1,14 @@
+C:\Users\labc205\Desktop\MyPE3\HolaJuan\HolaJuan\bin\Debug\net8.0\HolaJuan.exe
+C:\Users\labc205\Desktop\MyPE3\HolaJuan\HolaJuan\bin\Debug\net8.0\HolaJuan.deps.json
+C:\Users\labc205\Desktop\MyPE3\HolaJuan\HolaJuan\bin\Debug\net8.0\HolaJuan.runtimeconfig.json
+C:\Users\labc205\Desktop\MyPE3\HolaJuan\HolaJuan\bin\Debug\net8.0\HolaJuan.dll
+C:\Users\labc205\Desktop\MyPE3\HolaJuan\HolaJuan\bin\Debug\net8.0\HolaJuan.pdb
+C:\Users\labc205\Desktop\MyPE3\HolaJuan\HolaJuan\obj\Debug\net8.0\HolaJuan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labc205\Desktop\MyPE3\HolaJuan\HolaJuan\obj\Debug\net8.0\HolaJuan.AssemblyInfoInputs.cache
+C:\Users\labc205\Desktop\MyPE3\HolaJuan\HolaJuan\obj\Debug\net8.0\HolaJuan.AssemblyInfo.cs
+C:\Users\labc205\Desktop\MyPE3\HolaJuan\HolaJuan\obj\Debug\net8.0\HolaJuan.csproj.CoreCompileInputs.cache
+C:\Users\labc205\Desktop\MyPE3\HolaJuan\HolaJuan\obj\Debug\net8.0\HolaJuan.dll
+C:\Users\labc205\Desktop\MyPE3\HolaJuan\HolaJuan\obj\Debug\net8.0\refint\HolaJuan.dll
+C:\Users\labc205\Desktop\MyPE3\HolaJuan\HolaJuan\obj\Debug\net8.0\HolaJuan.pdb
+C:\Users\labc205\Desktop\MyPE3\HolaJuan\HolaJuan\obj\Debug\net8.0\HolaJuan.genruntimeconfig.cache
+C:\Users\labc205\Desktop\MyPE3\HolaJuan\HolaJuan\obj\Debug\net8.0\ref\HolaJuan.dll

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\labc205\\Desktop\\MyPE3\\HolaJuan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78A58953-6030-473B-A68C-0E7CDADF2D20}|HolaJuan\\HolaJuan.csproj|c:\\users\\labc205\\desktop\\mype3\\holajuan\\holajuan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A58953-6030-473B-A68C-0E7CDADF2D20}|HolaJuan\\HolaJuan.csproj|solutionrelative:holajuan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\labc205\\Desktop\\MyPE3\\HolaJuan\\HolaJuan\\Program.cs",
+              "RelativeDocumentMoniker": "HolaJuan\\Program.cs",
+              "ToolTip": "C:\\Users\\labc205\\Desktop\\MyPE3\\HolaJuan\\HolaJuan\\Program.cs",
+              "RelativeToolTip": "HolaJuan\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:31:49.544Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
